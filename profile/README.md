@@ -17,5 +17,7 @@ Example:
 ## Credits:
 
 [Toastyzz0](https://github.com/Toastyzz0) - Main Creator, Github Manager, Extensions Manager
+<br>
 [ieatcodeforstuff](https://github.com/ieatcodeforstuff) - Code, Bug Fixing, Tester / Testing
+<br>
 [sharkyydev](https://github.com/jefisalreadytkn) - Code, Github Manager, Community Manager
