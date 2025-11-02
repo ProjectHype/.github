@@ -4,12 +4,24 @@ ProjectHype is a coding language where you can turn your code into a App or a We
 One of our goals it to make Hype easy for new coders while also being a little complicated.
 
 Example:
-```python
-!@import hypegathers;
+```java
+@import: hypemain;
+@import: hypeconnections;
+@import: hypegathers;
+@importurl: https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap
 
-{function: "donothing"}: [
-    {set text with gather: "bigtext" to: "Very Big Text!"}
-]
+{hypehead}:
+    {windowtitle - "Welcome to my Hype App / Website!"}!
+    {windowlogo - "(logos/logo.png)"}!
+    {hypedesc - "Hello to my Hype Website / App!"}!
+    {hypeconnect - "(looks.hyl)"}!
+    {hypeconnect - "(hypescript.hys)"}!
+{hypehead - end}
+
+{hypemain}
+    /// This is a Comment! ///
+    {header1 - "Hello!" group: "verybigtext" gather: "big-text"}
+{hypemain - end}
 ```
 
 <hr>
